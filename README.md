@@ -18,14 +18,11 @@ Nos scripts utilizamos colisão, física e target.
 
 
 
-<img src="img/unity2.png" width="300px" weight="300px">
+<img src="img/unity1.png" width="300px" weight="300px">
 
 
 
 <img src="img/unity3.png" width="300px" weight="300px">
 
-
-
-<img src="img/unity3.png" width="300px" weight="300px">
 
 
